@@ -4,10 +4,11 @@ A modern web application that allows you to control music playback using hand ge
 
 ## Demo
 
-<video width="100%" controls autoplay muted loop playsinline>
-   <source src="./DEMO.webm" type="video/webm">
-   Your browser does not support the video tag. You can download the demo video [here](DEMO.webm).
-</video>
+GitHub README does not reliably render embedded local `<video>` players.
+
+➡️ **Watch the demo video:** [DEMO.webm](./DEMO.webm)
+
+If it does not open in-browser, download and play it locally.
 
 ## Features
 
