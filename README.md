@@ -2,13 +2,29 @@
 
 A modern web application that allows you to control music playback using hand gestures detected through your camera.
 
-## Demo
+## Dashboard Screenshots
 
-GitHub README does not reliably render embedded local `<video>` players.
+### ✌️ Victory Sign
 
-➡️ **Watch the demo video:** [DEMO.webm](./DEMO.webm)
+- Gesture mode ON
+   ![Victory gesture mode on](UI/Vicory-gesturemodeon.png)
+- Gesture mode OFF
+   ![Victory gesture mode off](UI/Victory-gesturemodeoff.png)
 
-If it does not open in-browser, download and play it locally.
+### 👍 Thumbs Up (Increase Volume)
+
+![Thumbs up increases volume](UI/Thumbsup-increasevolume.png)
+
+### 👎 Thumbs Down (Reduce Volume)
+
+![Thumbs down reduces volume](UI/Thumbsdown-reducevolume.png)
+
+### ✋ Open Palm (Play/Pause)
+
+- Pause
+   ![Open palm pause](UI/Openpalm-pause.png)
+- Play
+   ![Open palm play](UI/Openpalm-play.png)
 
 ## Features
 
